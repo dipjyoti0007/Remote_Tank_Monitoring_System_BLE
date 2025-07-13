@@ -64,9 +64,9 @@ It detects water levels via sensors and **transmits real-time updates wirelessly
 
 | Tank Status      | BLE Output                 |
 |------------------|----------------------------|
-| 🟢 FULL          | "Level: 3"                 |
+| 🟢 FULL          | "Level: 1"                 |
 | 🟡 HALF          | "Level: 2"                 |
-| 🔴 EMPTY         | "Level: 1"                 |
+| 🔴 EMPTY         | "Level: 3"                 |
 
 ---
 
