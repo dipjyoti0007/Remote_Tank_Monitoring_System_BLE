@@ -107,5 +107,5 @@ It detects water levels via sensors and **transmits real-time updates wirelessly
 
 ---
 
-> 📍 *Due to a Non-Disclosure Agreement (NDA), I am unable to share the circuit design and the working code in a public repository.As, it was a project for the client of Techavo Systems.*  
+> 📍 *Due to a Non-Disclosure Agreement (NDA), I am unable to share the circuit design and the working code in a public repository. As, it was a project for the client of Techavo Systems.*  
 
