@@ -1,5 +1,5 @@
 # 💧📡 BLE-Based Remote Tank Level Monitoring System 🚰🔋  
-*Internship Project at Techavo Systems*  
+*Internship Project at Techavo Systems (https://techavo.in/)*  
 🔧 By **Dipjyoti Kodali**, AEIE Dept., Heritage Institute of Technology
 
 ---
