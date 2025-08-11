@@ -1,4 +1,4 @@
-# 💧📡 BLE-Based Remote Tank Level Monitoring System 🚰🔋  
+# 💧 BLE-Based Remote Tank Level Monitoring System 
 *Internship Project at Techavo Systems (https://techavo.in/)*  
 🔧 By **Dipjyoti Kodali**, AEIE Dept., Heritage Institute of Technology
 
@@ -17,10 +17,10 @@ It detects water levels via sensors and **transmits real-time updates wirelessly
 
 | 💻 Software Stack             | 🔧 Hardware Tools                |
 |------------------------------|----------------------------------|
-| ✅ Segger Embedded Studio v8.24 | 📘 Nordic nRF52 DK (nRF52832)    |
-| ✅ Nordic nRF5 SDK v17.1.0     | ⚡ CR2032 Coin Cell Battery       |
-| ✅ nRF Connect Mobile App      | 📶 3-Level Digital Water Sensor   |
-| ✅ GATT Custom Service Dev     | 🔌 Micro USB / Battery Power      |
+| Segger Embedded Studio v8.24 | 📘 Nordic nRF52 DK (nRF52832)    |
+| Nordic nRF5 SDK v17.1.0     | ⚡ CR2032 Coin Cell Battery       |
+| nRF Connect Mobile App      | 📶 3-Level Digital Water Sensor   |
+| GATT Custom Service Dev     | 🔌 Micro USB / Battery Power      |
 
 ---
 
